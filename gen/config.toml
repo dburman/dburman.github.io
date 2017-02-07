@@ -1,0 +1,15 @@
+languageCode = "en-us"
+title = "dburman"
+author = "db"
+theme = "hugo-uno"
+baseurl = "https://dburman.github.io"
+publishdir = "public"
+canonifyurls = true
+
+[Params]
+  AuthorName = "db"
+  description = "ᚠ Music ᚸ Code ᚸ Bicycle ᚡ"
+  github = "dburman"
+  linkedin = "douglas-burman-019b597"
+  logo = "dirttan.jpg"
+  cover = "road.jpg"
