@@ -6,6 +6,9 @@ baseurl = "https://dburman.github.io"
 publishdir = "public"
 canonifyurls = true
 
+[indexes]
+   category = "categories"
+   tag = "tags"
 [Params]
   AuthorName = "db"
   description = "ᚸ Music ᚸ Technology ᚸ Bicycle ᚸ"
