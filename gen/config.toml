@@ -3,7 +3,7 @@ title = "dburman"
 author = "db"
 theme = "hugo-uno"
 baseurl = "https://dburman.github.io"
-publishdir = "docs"
+publishdir = "public"
 canonifyurls = true
 
 [Params]
